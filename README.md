@@ -1,8 +1,8 @@
-I'll help create a basic event ticketing platform. This is a complex application that would benefit from being broken down into reusable components and clear code organization.
 
 
 
-```javascript
+
+
 // server/models/Event.js
 const mongoose = require('mongoose');
 
